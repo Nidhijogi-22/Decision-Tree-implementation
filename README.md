@@ -1,4 +1,4 @@
-**Task 1: 🌳 Decision Tree Classifier**
+**🌳 Decision Tree Classifier**
 A classification project that demonstrates how Decision Trees can be used to predict categorical outcomes based on input features.
 
 📁 Dataset
